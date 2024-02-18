@@ -13,9 +13,5 @@ Exploring the realms of technology and programming.
 
 ## GitHub Stats
 
-<a href="https://www.github.com/DavidHuljak/">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DavidHuljak&show_icons=true&include_all_commits=true)" />
-</a>
-<a href="https://www.github.com/DavidHuljak/">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHuljak&layout=compact" />
-<a/>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=DavidHuljak&show_icons=true&include_all_commits=true)](https://github.com/DavidHuljak/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHuljak&layout=compact)](https://github.com/DavidHuljak/)
