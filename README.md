@@ -10,8 +10,3 @@ Exploring the realms of technology and programming.
 - 🌍 I love to travel and explore new places.
 - 🌬️ Passionate about air quality and I contribute to [sensor.community](https://sensor.community/).
 - 📚 I'm always learning new languages and expanding my knowledge.
-
-## GitHub Stats
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=DavidHuljak&show_icons=true&include_all_commits=true)](https://github.com/DavidHuljak/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHuljak&layout=compact)](https://github.com/DavidHuljak/)
